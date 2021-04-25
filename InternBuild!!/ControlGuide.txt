@@ -1,0 +1,4 @@
+Arrow to move
+R to change spell
+Spacebar to shoot
+Esc to exit
